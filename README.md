@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @NishanthRavi-22
-- 👀 I’m interested in Software Development...
-- 🌱 I’m currently learning Android Development...
-- 💞️ I’m looking to collaborate on Android Projects...
-- 📫 You can reach me through my email--> nishanthravi226@gmail.com
+### Hi there 👋
 
-<!---
-NishanthRavi-22/NishanthRavi-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**nishanthravi22/nishanthravi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+ 
+ It's Nishanthan Ravichandran here... 👋
+
+- A Software Enthusiast with expertise in Java, AWS, and Android Development💻
+- Passionate in building something new and big !!!
+- Here's my [LinkedIn](https://linkedin.com/in/nishanth-ravichandran22)
+- Grab a look at my [Frontend Project](https://n2nmovies.netlify.app/)
+       
+        " Hardwork beats talent when talent doesn't work hard "
+
+
