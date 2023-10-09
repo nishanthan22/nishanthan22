@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/nishanth-ravichandran22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nishanth-ravichandran22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishanth-ravichandran22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nishanth-ravichandran22" height="30" width="40" /></a>
  <a href="https://twitter.com/NishanthanRavi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishanthanravi1" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/15491669/nishanthan-ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15491669/nishanthan-ravichandran" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100079193078994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079193078994" height="30" width="40" /></a>
