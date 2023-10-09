@@ -5,7 +5,8 @@
 <h1 align="center">Hi there, It's Nishanthan Ravichandran</h1>
 <h3 align="center">A Software Enthusiast with expertise in Java, AWS, and Android Development💻</h3>
 <h5 align="center">" Hardwork beats talent when talent doesn't work hard "</h5>
- 
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" />
+
 
 - 🌱 Currently enhancing my skills in **SpringBoot, Maven, Android Development**
 
@@ -15,8 +16,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/nishanth-ravichandran22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nishanth-ravichandran22" height="30" width="40" /></a>
  <a href="https://twitter.com/NishanthanRavi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishanthanravi1" height="30" width="40" /></a>
- <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15491669/nishanthan-ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15491669/nishanthan-ravichandran" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100079193078994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079193078994" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/15491669/nishanthan-ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15491669/nishanthan-ravichandran" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100079193078994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079193078994" height="30" width="40" /></a>
 <a href="https://instagram.com/nishanth22_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishanth22_" height="30" width="40" /></a>
  
 </p>
