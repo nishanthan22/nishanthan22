@@ -7,8 +7,6 @@
 <h5 align="center">" Hardwork beats talent when talent doesn't work hard "</h5>
  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanthan22" alt="nishanthan22" /></a> </p>
-
 - 🌱 Currently enhancing my skills in **SpringBoot, Maven, Android Development**
 
 - 📫 Reach out to me **nishanthravi226@gmail.com**
