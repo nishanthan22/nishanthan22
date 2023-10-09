@@ -12,4 +12,4 @@
        
         " Hardwork beats talent when talent doesn't work hard "
 
-
+![](https://komarev.com/ghpvc/?username=nishanthan22&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
