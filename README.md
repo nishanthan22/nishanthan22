@@ -3,7 +3,6 @@
 <h1 align="center">Hi there, It's Nishanthan Ravichandran</h1>
 <h3 align="center">A Software Enthusiast with expertise in Java, AWS, and Android Development💻</h3>
 <h5 align="center">" Hardwork beats talent when talent doesn't work hard "</h5>
-<img align="center" alt="Coding" width="100%" height="600"  object-fit="cover" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" />
 
 
 - 🌱 Currently enhancing my skills in **SpringBoot, Maven, Android Development**
@@ -29,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanthan22&show_icons=true&locale=en" alt="nishanthan22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanthan22&" alt="nishanthan22" /></p>
+
+
+<img align="center" alt="Coding" width="100%" height="600"  object-fit="cover" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" />
