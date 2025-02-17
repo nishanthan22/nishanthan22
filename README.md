@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, It's Nishanthan Ravichandran</h1>
 <h3 align="center">A Software Enthusiast with expertise in Java, AWS, and Android Development💻</h3>
 <h5 align="center">" Hardwork beats talent when talent doesn't work hard "</h5>
-<img align="right" alt="Coding" width="280" height="280" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" />
+<img align="center" alt="Coding" width="100%" height="600"  object-fit="cover" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" />
 
 
 - 🌱 Currently enhancing my skills in **SpringBoot, Maven, Android Development**
