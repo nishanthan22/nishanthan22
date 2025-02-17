@@ -1,6 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQELUc2ii7U9Rw/profile-displaybackgroundimage-shrink_350_1400/0/1691138151199?e=1702512000&v=beta&t=A-rcNO_GsxobNIDkq6MUmksXtEAyFmAPD8P-NdRCR5A)](https://github.com/nishanthan22/)
 
-       
     
 <h1 align="center">Hi there, It's Nishanthan Ravichandran</h1>
 <h3 align="center">A Software Enthusiast with expertise in Java, AWS, and Android Development💻</h3>
