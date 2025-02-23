@@ -8,23 +8,6 @@
 - 🌱 Currently enhancing my skills in **SpringBoot, Maven, Android Development**
 
 - 📫 Reach out to me **nishanthravi226@gmail.com**
-<style>
-  .center-container {
-    display: flex;
-    flex-direction: column; 
-    align-items: center; 
-    justify-content: center; 
-    text-align: center;
-    gap: 10px; 
-  }
-
-  .center-container img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
-
  
 
 <h3 align="left">Connect with me:</h3>
