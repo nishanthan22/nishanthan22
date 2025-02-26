@@ -8,7 +8,7 @@
 - 🌱 Currently enhancing my skills in **SpringBoot, Maven, Android Development**
 
 - 📫 Reach out to me **nishanthravi226@gmail.com**
- 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthan22&label=Profile%20views&color=0e75b6&style=flat" alt="nishanthan22" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
